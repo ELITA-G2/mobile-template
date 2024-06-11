@@ -36,6 +36,7 @@ dependencies:
   http:
   bloc_test:
   sqflite:
+  go_router:
   path:
   get_it:
   shared_preferences:
